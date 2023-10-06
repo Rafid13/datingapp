@@ -1,3 +1,11 @@
+bin/
+.dll
+packages/
+obj/
+*.db
+.db-shm
+.db-wal
+
 # User-specific files
 *.suo
 *.user
