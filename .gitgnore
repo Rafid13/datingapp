@@ -1,0 +1,8 @@
+bin/
+.dll
+packages/
+obj/
+*.db
+.db-shm
+.db-wal
+datingapp.db
